@@ -126,20 +126,7 @@
 	</div>
 </section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-		<!-- section 4 -->
+<!-- section 4 -->
 		<section class="section3">
 			<div class="row">
 			<div class="col-md-1"></div>
@@ -162,7 +149,7 @@
 
 							<p class="colorCafetxt" style="margin-top: 15px;">
 								<span class="txtSeparationNone txtBold">-----</span>
-								<span class="nombreTitle">EMILIA CLARACO</span>
+								<span class="nombreTitle">EMILIANA CLARACO</span>
 							</p>
 							<div class="contentImg">
 								<div class="overlay">
@@ -322,7 +309,7 @@
 
 			<div class="contenidoModal1">
 				<div class="modal01 contentHidden">
-                    @include('texts.enrique_dalias')
+                    @include('texts.emiliana_claraco')
 				</div>
 
 				<div class="modal02 contentHidden">

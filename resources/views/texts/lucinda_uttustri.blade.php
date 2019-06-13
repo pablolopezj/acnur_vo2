@@ -1,11 +1,19 @@
 <div class="col" align="left">
-    <h3>LUCINDA URRUSTRI</h3>
-    <h5>Ojalá tengan posibilidades como las tuvimos nosotros </h5>
-    <br>
-    <strong>Por Pierre-Marc René</strong>
+    <hr class="hr-modal">
+    <div class="row">
+      <div class="col-md-3">
+        <img class="img-modal" src="./images/galeria/thumbnails/05.png" alt="">
+      </div>
+
+      <div class="col-md-13">
+          <h3>LUCINDA URRUSTRI</h3>
+          <br/>
+          <strong>Por Pierre-Marc René</strong>
+      </div>
+    </div>
 </div>
 <br/>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/hflGH4jKU0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/YK4gAg8aqnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="row">
     <!-- logo -->
@@ -13,6 +21,7 @@
         <div align="left" class="h50px" style="border-bottom: 1px solid #fff;">
         </div>
         <div class="content">
+            <h2 class="tituloS1 bodoni">Ojalá tengan posibilidades como las tuvimos nosotros</h2>
             <br><br>
             <p align="justify">La Guerra Civil en España tiene una presencia importante en la memoria de Lucinda Urrusti. Aunque era apenas una niña, ella y su hermano sabían que algo no andaba bien.</p>
             <p align="justify">Tenía 10 años cuando su familia tuvo que huir de España. Su padre, militar de carrera, sabía que al derrocarse el gobierno republicano habría represalias.</p>
@@ -25,16 +34,6 @@
             <p align="justify">“Mi madre cosía muy bien y con los trabajos de ella pudimos subsistir. Los que se quedaban nos daban lo poco que tenían para que llegáramos al puerto y no perdernos el barco. Son momentos en que ves lo peor y lo mejor de la humanidad”.</p>
             <p align="justify">Lograron llegar a París, y en la terminal de tren, un francés que hablaba español y que pertenecía al Partido Socialista se percató que la familia era refugiada y se acercó para ayudarlos.</p>
             <p align="justify">“Nos dijo que iba a regresar en la noche con el dinero, nadie creía que iba a cumplir, y resultó que sí. Nos dio francos y pudimos llegar a Sète, reunirnos con mi padre y llegar al puerto donde salía el barco para México”, señala.</p>
-
-
-        </div>
-    </div>
-    <div class="col-sm">
-        <div align="right" class="h50px" style="border-bottom: 1px solid #fff;">
-        </div>
-
-        <div class="content">
-            <br><br>
             <p align="justify">Para Lucinda, la travesía a México en el Sinaia fue linda y llena de expectativas. En el barco, comían mejor y el gobierno mexicano había preregistrado las personas según sus funciones y profesiones para asignarles una ciudad de acogida una vez en Veracruz. La Ciudad de México fue el destino final de la familia Urrusti.</p>
             <p align="justify">“Nos habían puesto en una bodega, era horrible el calor y era imposible dormir. Mi padre ideó una solución y nos puso en lanchas de salvamento para dormir. Fue fantástico, aunque a las cinco de la mañana pasaban los marineros lavando la cubierta del barco”, cuenta.</p>
             <p align="justify">A Lucinda le pareció que la travesía a México no se iba a acabar nunca, pues duró muchos días y sólo veía cielo y mar, por lo que pensaba que el resto del mundo, fuera de Europa, era así.</p>

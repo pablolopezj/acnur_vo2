@@ -3,26 +3,25 @@
 
   <div class="row">
     <div class="col-md-3">
-      <img class="img-modal" src="./images/galeria/thumbnails/05.png" alt="">
+      <img class="img-modal" src="./images/galeria/thumbnails/03.png" alt="">
     </div>
 
     <div class="col-md-13">
         <h3>HELIOS ESTÉVEZ</h3>
-        <h5>Queríamos recuperar el tiempo que la vida nos había robado</h5>
-        <br>
+        <br/>
         <strong>Por Pierre-Marc René</strong>
     </div>
  </div>
 
 </div>
 <br/>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/hflGH4jKU0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/pyJdwm6IqOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="row">
     <!-- logo -->
 
         <div class="content">
-          		<h2 class="tituloS1 bodoni">Mi padre decía, 'no fui yo, fue México'</h2>
+          	<h2 class="tituloS1 bodoni">Queríamos recuperar el tiempo que la vida nos había robado</h2>
             <br><br>
             <p align="justify">Helios Estéves tenía sólo dos meses cuando su padre se fue de la casa a combatir en la Guerra Civil española en 1936. Fue hasta los 19 años, en 1970, que pudo volverlo a ver y conocerlo en Ciudad de México, donde se exilió con miles de otros españoles que huyeron del franquismo.</p>
             <p align="justify">“Vine a México a conocer a mi padre. La ilusión de la familia fue siempre unirnos en algún país. Como en España mi padre no podía regresar porque seguía la dictadura, pues intento yo a los 19 años venir con la ilusión de traer después a mi madre y a mis hermanas. Cuando ya estábamos a punto de conseguirlo, mi padre fallece inesperadamente y los sueños se rompen sin saber si quiera como decírselo mi madre”, cuenta Helios.</p>
@@ -34,9 +33,6 @@
             <p align="justify">Helios cuenta con mucha emoción el encuentro en México con su padre, en 1970.</p>
             <p align="justify">“Yo traía su foto, él traía la mía y bueno, fue algo que no sé ni expresarlo. Queríamos recuperar el tiempo que la vida nos había robado, hablamos de la vida, del amor, de los porqués, de los silencios del alma. Lloramos juntos, hicimos planes”, recuerda.</p>
             <p align="justify">Tres años vivieron juntos, aunque su padre viajaba mucho. Se veían cada tres o cuatro días, iban al fútbol.</p>
-
-
-            <br><br>
             <p align="justify">“Me duele que mis hermanas no pudieran (escuchar la historia de mi papá), porque sí es doloroso dejar unas hijas como dejó de dos y cuatro años y que nunca más lo volvieron a ver”, confiesa.</p>
             <p align="justify">Cuando falleció su padre, Helios pensó regresarse a España, pero estaba preocupado en quién le iba a ir a dejar flores en su tumba, por lo que se quedó en México.</p>
             <p align="justify">“La vida en México le fue muy difícil. Era un hombre intelectual que no es fácil ganar dinero, y siempre con el dolor del exilio, era un romántico con la esperanza siempre de que la dictadura no podía durar tanto y que se iba a reencontrar con su familia en España. A los casi cuatro años que llegué yo lo alcanza la muerte inesperadamente. Fue dramático”.</p>

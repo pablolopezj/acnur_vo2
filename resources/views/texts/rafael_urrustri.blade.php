@@ -1,11 +1,19 @@
 <div class="col" align="left">
-    <h3>RAFAEL URRUSTRI</h3>
-    <h5>Hacer de México un país de acogida</h5>
-    <br>
-    <strong>Por Pierre-Marc René</strong>
+    <hr class="hr-modal">
+    <div class="row">
+      <div class="col-md-3">
+        <img class="img-modal" src="./images/galeria/thumbnails/07.png" alt="">
+      </div>
+
+      <div class="col-md-13">
+          <h3>RAFAEL URRUSTRI</h3>
+          <br/>
+          <strong>Por Pierre-Marc René</strong>
+      </div>
+    </div>
 </div>
 <br/>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/hflGH4jKU0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/_XfpnUwQjOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="row">
     <!-- logo -->
@@ -13,6 +21,7 @@
         <div align="left" class="h50px" style="border-bottom: 1px solid #fff;">
         </div>
         <div class="content">
+            <h2 class="tituloS1 bodoni">Hacer de México un país de acogida</h2>
             <br><br>
             <p align="justify">Rafael Urrusti Alonso es descendiente de una familia que huyó de España en 1939. A sus 61 años y al cumplirse 80 aniversario del exilio español, el reconocido músico promueve que se declare “ejemplo de la humanidad”, a Gilberto Bosques, quien por órdenes del Presidente Lázaro Cárdenas, gestionó la acogida de decenas de miles de refugiados españoles y europeos en México.</p>
             <p align="justify">“Lo que significan Gilberto Bosques y la política de México del Presidente Lázaro Cárdenas es la diferencia entre la vida y la muerte para decenas de miles de personas. Siempre he tenido la inquietud de honrarlo como se merece, si es que hay manera de medir eso, de salvar a tantísimas miles de vidas”, declara el flautista.</p>
@@ -23,16 +32,6 @@
             <p align="justify">De acuerdo con los relatos que le contaron sus padres, en Francia, el índice de mortandad infantil en los centros de concentración de refugiados era peor que en los campos de concentración alemanes, pues los niños morían con mayor facilidad.</p>
             <p align="justify">Quienes llegaban al sur de Francia, relata, se quedaban en la playa a la intemperie.</p>
             <p align="justify">“Cada persona era una tragedia. Todos preguntaban por alguien que habían perdido”, comenta.</p>
-
-
-        </div>
-    </div>
-    <div class="col-sm">
-        <div align="right" class="h50px" style="border-bottom: 1px solid #fff;">
-        </div>
-
-        <div class="content">
-            <br><br>
             <p align="justify">Es en ese momento, señala, cuando Cárdenas ofreció a los españoles la posibilidad de venir a México y pide a Gilberto Bosques organizar la travesía en distintos barcos.</p>
             <p align="justify">“Siempre he sentido una deuda que no se ha pagado, ni de México ni de los refugiados españoles y antifascistas, ni de los judíos, con Gilberto Bosques, por lo que ha hecho por los españoles y judíos”, expresa Urrusti.</p>
             <p align="justify">Por lo tanto, quiere promover un proyecto que reconozca a Gilberto Bosques y honrarlo mediante el nombramiento de una fuente, parque u otro lugar emblemático en su honor que llevara la leyenda: “Gilberto Bosques, ejemplo de la Humanidad”, para reconocer la política que impulsó como un valor nacional y vinculo cultural de México.</p>

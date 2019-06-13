@@ -1,18 +1,27 @@
 <div class="col" align="left">
-    <h3>ENRIQUE DALIAS</h3>
-    <h5>El mundo debería estar liberado de que se le exijan a uno documentos</h5>
-    <br>
-    <strong>Por Pierre-Marc René</strong>
+    <hr class="hr-modal">
+
+    <div class="row">
+      <div class="col-md-3">
+        <img class="img-modal" src="./images/galeria/thumbnails/02.png" alt="">
+      </div>
+
+      <div class="col-md-13">
+          <h3>ENRIQUE DALIAS</h3>
+          <br/>
+          <strong>Por Pierre-Marc René</strong>
+      </div>
+   </div>
 </div>
 <br/>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/hflGH4jKU0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/IRCxKhnHVLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="row">
     <!-- logo -->
     <div class="col-sm">
-        <div align="left" class="h50px" style="border-bottom: 1px solid #fff;">
-        </div>
+
         <div class="content">
+            <h2 class="tituloS1 bodoni">El mundo debería estar liberado de que se le exijan a uno documentos</h2>
             <br><br>
             <p align="justify">Enrique Guarner vivió solamente seis años en España debido a que su padre, Vicente, militar de carrera y compañero de clase de Francisco Franco desde la adolescencia, se fue a combatir a África. Al estallar la Guerra Civil, el padre se alió a los republicanos y se volvió enemigo de Franco. </p>
             <p align="justify">“Mi padre tuvo bastante importancia en el desarrollo de la Guerra Civil, estuvo en diversas batallas, prácticamente era el que comandaba todo el frente de Aragón en aquella época y mandaba 48 mil hombres”, relata el hombre de 87 años. </p>
@@ -25,15 +34,6 @@
             <p align="justify">“Mi mamá, que se sentía muy elegante e importante, quedó horrorizada, porque se tiraban naranjas. Era el populacho el que estaba presente en ese lugar, fue el primer contacto que tuve con México derivado de ser refugiado”, señala. </p>
             <p align="justify">Otro tema impactante al principio fue el cine, porque las películas en Casablanca estaban dobladas al francés, su primer idioma. En México, las películas estaban en inglés y llevaban subtítulos y no le daba tiempo de leerlos.</p>
             <p align="justify">También le costó entender el significado de las expresiones mexicanas.  </p>
-
-        </div>
-    </div>
-    <div class="col-sm">
-        <div align="right" class="h50px" style="border-bottom: 1px solid #fff;">
-        </div>
-
-        <div class="content">
-            <br><br>
             <p align="justify">“Había un letrero muy grande que decía ‘Ay Jalisco no te rajes’, no entendía por qué se había rajado alguien que se llamaba Jalisco. Después supe que era una película de Jorge Negrete y que ‘rajarse’ era ‘acobardarse’”, explica.</p>
             <p align="justify">Para Enrique, el contacto real con los mexicanos lo tuvo hasta que entró a la Facultad de Medicina de la UNAM, que entonces se ubicaba en el Centro Histórico, pues antes estudió en un colegio español y vivía en un barrio de puros españoles. </p>
             <p align="justify">Ahora un reconocido psicoanalista, formado también en Estados Unidos. </p>

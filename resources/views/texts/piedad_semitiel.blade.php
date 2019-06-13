@@ -1,11 +1,19 @@
 <div class="col" align="left">
-    <h3>PIEDAD SEMITIEL</h3>
-    <h5>Nos recibieron con el alma y con el corazón</h5>
-    <br>
-    <strong>Por Pierre-Marc René</strong>
+    <hr class="hr-modal">
+    <div class="row">
+      <div class="col-md-3">
+        <img class="img-modal" src="./images/galeria/thumbnails/06.png" alt="">
+      </div>
+
+      <div class="col-md-13">
+          <h3>PIEDAD SEMITIEL</h3>
+          <br/>
+          <strong>Por Pierre-Marc René</strong>
+      </div>
+    </div>
 </div>
 <br/>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/hflGH4jKU0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/-GzX7Cw_N8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="row">
     <!-- logo -->
@@ -13,6 +21,7 @@
         <div align="left" class="h50px" style="border-bottom: 1px solid #fff;">
         </div>
         <div class="content">
+            <h2 class="tituloS1 bodoni">Nos recibieron con el alma y con el corazón</h2>
             <br><br>
             <p align="justify">Piedad Semitiel recuerda a sus 91 años todo el proceso de huida de España, del cual guarda textos, poemas, fotografías y documentos, algunos del Nyassa, el barco en el que llegó a México. </p>
             <p align="justify">Nació en la ciudad española de Aluzma, cerca de Melilla, en Marruecos, pero vivió la Guerra Civil en Cieza, en la provincia de Murcia, de donde son originarios sus padres y abuelos. Tenía ocho años cuando estalló el conflicto, en 1936. Fue separada muchos años de su padre, médico de profesión, porque ingresó al Ejército. </p>
@@ -29,17 +38,6 @@
             <p align="justify">Entonces tenía 14 años. Recuerda que una niña de dos años murió en el barco. </p>
             <p align="justify">“A la criaturita la envolvieron en banderas, y fue arrojada al mar”, cuenta dejando escapar las lágrimas. </p>
             <p align="justify">En el barco también venían dos familias de origen judío que casi no salían del camarote. </p>
-
-
-
-        </div>
-    </div>
-    <div class="col-sm">
-        <div align="right" class="h50px" style="border-bottom: 1px solid #fff;">
-        </div>
-
-        <div class="content">
-            <br><br>
             <p align="justify">“Venían con mucho temor, hay que comprenderlo. A las niñas las recuerdo vagamente, eran de la edad de mi hermana y mía”, relata. </p>
             <p align="justify">La angustia que se vivía en el barco cambió por completo al llegar al puerto mexicano.</p>
             <p align="justify">“Había docenas de lanchitas con banderas republicanas y mexicanas, marimba, guitarras tocando canciones mexicanas. Otros cantaban canciones de la guerra, había lanchas con frutas que no conocíamos, piñas, chirimoyas, unas pencas de plátanos inmensas”. </p>
