@@ -42,9 +42,6 @@
 					<div class="row align-items-left v100">
 						<div class="col-md-2"></div>
 							<div class="col-md-10">
-								<div class="h50px">
-									<h2 id="middle-header">@include('texts.middle_header')</h2>
-								</div>
 								<div class="content">
 									<img src="./images/lupa_docs.png" alt="" style="max-width: 100%">
 								</div>
@@ -53,6 +50,9 @@
 			</div>
 			<div class="col-md-7">
 				<div class="col-md-10 ">
+                    <div class="h50px">
+                        <h2 id="middle-header">@include('texts.middle_header')</h2>
+                    </div>
 					<div class="content" id="middle-text">
 									@include('texts.middle_text')
 					</div>
@@ -89,18 +89,6 @@
 							Como Cónsul General de México en Marsella, Gilberto Bosques lideró la salida de miles
 							españoles, judíos, alemanes y personas de diferentes nacionalidades que huían de la
 							persecución y la guerra hacia el puerto de Veracruz. Les salvó la vida.
-						</p>
-						<p align="justify">
-							A sus 98 años, Laura opina que su padre, un hombre al que describe como congruente y bueno, trabajador y disciplinado, simplemente cumplió con el rol que le tocó jugar en la
-							historia. Ni más, ni menos.
-						</p>
-						<p align="justify">
-							A sus 98 años, Laura opina que su padre, un hombre al que describe como congruente y bueno, trabajador y disciplinado, simplemente cumplió con el rol que le tocó jugar en la
-							historia. Ni más, ni menos.
-						</p>
-						<p align="justify">
-							A sus 98 años, Laura opina que su padre, un hombre al que describe como congruente y bueno, trabajador y disciplinado, simplemente cumplió con el rol que le tocó jugar en la
-							historia. Ni más, ni menos.
 						</p>
 						<p align="justify">
 							A sus 98 años, Laura opina que su padre, un hombre al que describe como congruente y bueno, trabajador y disciplinado, simplemente cumplió con el rol que le tocó jugar en la
