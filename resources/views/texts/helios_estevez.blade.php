@@ -1,17 +1,26 @@
 <div class="col" align="left">
-    <h3>HELIOS ESTÉVEZ</h3>
-    <h5>Queríamos recuperar el tiempo que la vida nos había robado</h5>
-    <br>
-    <strong>Por Pierre-Marc René</strong>
+  <hr class="hr-modal">
+
+  <div class="row">
+    <div class="col-md-3">
+      <img class="img-modal" src="./images/galeria/thumbnails/05.png" alt="">
+    </div>
+
+    <div class="col-md-13">
+        <h3>HELIOS ESTÉVEZ</h3>
+        <h5>Queríamos recuperar el tiempo que la vida nos había robado</h5>
+        <br>
+        <strong>Por Pierre-Marc René</strong>
+    </div>
+ </div>
+
 </div>
 <br/>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/hflGH4jKU0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="row">
     <!-- logo -->
-    <div class="col-sm">
-        <div align="left" class="h50px" style="border-bottom: 1px solid #fff;">
-        </div>
+
         <div class="content">
             <br><br>
             <p align="justify">Helios Estéves tenía sólo dos meses cuando su padre se fue de la casa a combatir en la Guerra Civil española en 1936. Fue hasta los 19 años, en 1970, que pudo volverlo a ver y conocerlo en Ciudad de México, donde se exilió con miles de otros españoles que huyeron del franquismo.</p>
@@ -26,13 +35,6 @@
             <p align="justify">Tres años vivieron juntos, aunque su padre viajaba mucho. Se veían cada tres o cuatro días, iban al fútbol.</p>
 
 
-        </div>
-    </div>
-    <div class="col-sm">
-        <div align="right" class="h50px" style="border-bottom: 1px solid #fff;">
-        </div>
-
-        <div class="content">
             <br><br>
             <p align="justify">“Me duele que mis hermanas no pudieran (escuchar la historia de mi papá), porque sí es doloroso dejar unas hijas como dejó de dos y cuatro años y que nunca más lo volvieron a ver”, confiesa.</p>
             <p align="justify">Cuando falleció su padre, Helios pensó regresarse a España, pero estaba preocupado en quién le iba a ir a dejar flores en su tumba, por lo que se quedó en México.</p>
@@ -47,5 +49,4 @@
             <p align="justify">“Mi padre luchó, dio su vida buscando esa igualdad entre las personas, pero que eso solo tenga que ser a través la cultura. Educación, educación y más educación para todos y dar el ejemplo día a día”, concluye. </p>
 
         </div>
-    </div>
 </div>

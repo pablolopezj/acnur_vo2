@@ -237,3 +237,13 @@ body {
 #footer a {
   color: #FFF !important;
 }
+
+.img-modal{
+  border-radius: 50%;
+  width: 160px;
+}
+
+.hr-modal{
+  margin-top: 20px;
+  background: #FFF;
+}
