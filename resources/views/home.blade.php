@@ -210,7 +210,7 @@
 						@enddesktop
 							<p class="colorCafetxt" style="margin-top: 15px;">
 								<span class="txtSeparationNone txtBold">-----</span>
-								<span class="nombreTitle">LUCINDA URRUSTRI</span>
+								<span class="nombreTitle">LUCINDA URRUSTI</span>
 							</p>
 							<div class="contentImg">
 								<div class="overlay">
@@ -242,7 +242,7 @@
 						@enddesktop
 							<p class="colorCafetxt" style="margin-top: 15px;">
 								<span class="txtSeparationNone txtBold">-----</span>
-								<span class="nombreTitle">RAFAEL URRUSTRI</span>
+								<span class="nombreTitle">RAFAEL URRUSTI</span>
 							</p>
 							<div class="contentImg">
 								<div class="overlay">
