@@ -14,7 +14,7 @@ body {
 	margin: 0;
 	padding: 0;
 	color: #fff;
-	background: url(../images/fondoGral.png) no-repeat top center;
+	background: url(../images/backgrownd.png) no-repeat top center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -34,7 +34,8 @@ body {
 }
 
 .tituloS1 {
-	font-size: 1.78rem;
+	font-size: 2.8rem;
+  font-style: italic;
 }
 
 .back-image-s1 {
@@ -89,9 +90,9 @@ body {
 .btnVerMas{
 	font-size: 0.8rem;
 	margin-top: 20px;
-	border: 2px solid #756767;
+	border: 2px solid #FFF;
 	border-radius: initial;
-	color: #756767;
+	color: #FFF;
 	padding: 5px 35px;
 }
 
@@ -101,8 +102,23 @@ body {
 }
 
 .section2 .content {
-	margin-top: 30px;
+	margin-top: 220px;
 }
+
+.section2 .content img {
+	border: 8px #b2a6a6 solid;
+}
+
+.laura{
+	margin-top: 140px;
+  margin-bottom: 140px;
+}
+
+.laura img {
+	border: 8px #b2a6a6 solid;
+}
+
+
 
 .txtSeparationNone{
 	letter-spacing: -4px;
@@ -193,8 +209,31 @@ body {
 	margin-top: 40px;
 }
 
-#laura-text {
-	height: 520px;
+#middle-text {
+	height: 800px;
 	overflow: auto;
   margin-bottom:30px;
+}
+
+#middle-header{
+  text-decoration: underline;
+}
+
+
+
+
+/* raleway-regular - latin */
+@font-face {
+  font-family: 'Bodoni';
+  font-style: normal;
+  src: local('☺'),
+       url('../fonts/Bodoni_72_Smallcaps_Book.ttf') format('truetype');
+}
+
+.bodoni{
+  font-family: "Bodoni";
+}
+
+#footer a {
+  color: #FFF !important;
 }

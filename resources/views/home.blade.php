@@ -32,56 +32,118 @@
 			</div>
 		</section>
 
-		<!-- section 2 -->
-		<section class="section2">
-			<div class="container">
-				<div class="row">
-					<!-- logo -->
-					<div class="col-sm">
-						<div align="left" class="h50px" style="border-bottom: 1px solid #fff;">
-							<img src="./images/logo.png" alt="Logo" class="logoSmall">
-						</div>
-						<div class="content">
-							<img src="./images/s2img1.png" alt="" style="max-width: 100%">
-							<p class="colorCafetxt" style="margin-top: 15px;">
-								<span class="txtSeparationNone txtBold">-----</span>
-								<span class="nombreTitle">LAURA BOSQUES 98 AÑOS</span>
-							</p>
-						</div>
+
+
+
+	<!-- section 2 -->
+	<section class="section2">
+		<div class="row">
+			<div class="col-md v100" >
+					<div class="row align-items-left v100">
+						<div class="col-md-2"></div>
+							<div class="col-md-9">
+								<div class="h50px">
+									<h2 id="middle-header">@include('texts.middle_header')</h2>
+								</div>
+								<div class="content">
+									<img src="./images/lupa_docs.png" alt="" style="max-width: 100%">
+								</div>
+							</div>
 					</div>
-					<div class="col-sm">
-						<div align="right" class="h50px" style="border-bottom: 1px solid #fff;">
-							2019
-						</div>
-
-						<div class="content colorCafetxt">
-							<h2 class="tituloS1">Mi padre decía, <br>'no fui yo, fue México'</h2>
-							<br><br>
-							<p align="justify">
-								Contrario a lo que podría esperarse, cuando Laura describe a su padre, Gilberto Bosques, sus palabras son muy breves y transmiten una humildad que conmueve.
-								Como Cónsul General de México en Marsella, Gilberto Bosques lideró la salida de miles
-								españoles, judíos, alemanes y personas de diferentes nacionalidades que huían de la
-								persecución y la guerra hacia el puerto de Veracruz. Les salvó la vida.
-							</p>
-							<p align="justify">
-								A sus 98 años, Laura opina que su padre, un hombre al que describe como congruente y bueno, trabajador y disciplinado, simplemente cumplió con el rol que le tocó jugar en la
-								historia. Ni más, ni menos.
-							</p>
-
-						</div>
-
-						<div align="right">
-							<button class="btn btnVerMas" data-modal='modal10'>VER MÁS</button>
-						</div>
-
+			</div>
+			<div class="col-md-7">
+				<div class="col-md-10 ">
+					<div class="content" id="middle-text">
+									@include('texts.middle_text')
 					</div>
 				</div>
 			</div>
-		</section>
+		</div>
+</section>
 
-		<!-- section 3 -->
+
+
+
+
+
+
+<!-- section laura -->
+
+<section class="laura">
+	<div class="row"  style="background: #928989;">
+
+		<div class="col-md-1"></div>
+			<div class="col-md-6">
+				<div>
+					<br><br><br><br><br>
+						<h2 class="tituloS1 bodoni">Mi padre decía, 'no fui yo, fue México'</h2>
+
+						<p align="right" style="margin-top: 15px;">
+							<span class="txtSeparationNone txtBold">-----</span>
+							<span class="nombreTitle">LAURA BOSQUES 98 AÑOS</span>
+						</p>
+
+												<br><br>
+						<p align="justify">
+							Contrario a lo que podría esperarse, cuando Laura describe a su padre, Gilberto Bosques, sus palabras son muy breves y transmiten una humildad que conmueve.
+							Como Cónsul General de México en Marsella, Gilberto Bosques lideró la salida de miles
+							españoles, judíos, alemanes y personas de diferentes nacionalidades que huían de la
+							persecución y la guerra hacia el puerto de Veracruz. Les salvó la vida.
+						</p>
+						<p align="justify">
+							A sus 98 años, Laura opina que su padre, un hombre al que describe como congruente y bueno, trabajador y disciplinado, simplemente cumplió con el rol que le tocó jugar en la
+							historia. Ni más, ni menos.
+						</p>
+						<p align="justify">
+							A sus 98 años, Laura opina que su padre, un hombre al que describe como congruente y bueno, trabajador y disciplinado, simplemente cumplió con el rol que le tocó jugar en la
+							historia. Ni más, ni menos.
+						</p>
+						<p align="justify">
+							A sus 98 años, Laura opina que su padre, un hombre al que describe como congruente y bueno, trabajador y disciplinado, simplemente cumplió con el rol que le tocó jugar en la
+							historia. Ni más, ni menos.
+						</p>
+						<p align="justify">
+							A sus 98 años, Laura opina que su padre, un hombre al que describe como congruente y bueno, trabajador y disciplinado, simplemente cumplió con el rol que le tocó jugar en la
+							historia. Ni más, ni menos.
+						</p>
+					</div>
+					<div align="left">
+						<button class="btn btnVerMas" data-modal='modal10'>VER MÁS</button>
+						<br><br><br><br><br><br>
+					</div>
+
+			</div>
+
+			<div class="col-md v100" >
+				<br><br><br><br><br><br>
+					<div class="col-md-9">
+							<img src="./images/s2img1.png" alt="" style="max-width: 100%">
+
+					</div>
+
+		  </div>
+
+	</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!-- section 4 -->
 		<section class="section3">
-			<div class="container">
+			<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-10">
 				<div class="row">
 					<!-- Titulo -->
 					<div class="col colorCafetxt">
@@ -228,14 +290,18 @@
 					</div>
 				</div>
 				<div align="center" style="margin-top: 120px;">
+					<br ><br ><br ><br >
 					<a href="https://donate.unhcr.org/la-es/siria-arrival" target="_blank" class="btn btnQuieroAyudar" style="background: rgba(0,0,0,0.7)">QUIERO AYUDAR A UN REFUGIADO</a>
 				</div>
 
 				<div align="center" style="margin-top: 80px;">
 					<img src="./images/logo.png" alt="logo" width="20%"/>
-					<br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br >
+					<br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br >
+					<br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br >
 				</div>
 
+			</div>
+				<div class="col-md-1"></div>
 			</div>
 		</section>
 	</div>
@@ -292,6 +358,27 @@
 
 			</div>
 		</div>
+		<div id="footer"  style="background: #928989;">
+			<br>
+			<div class="row">
+
+					<div class="col-md" >
+						<p class="text-center">
+							<a href="#">TODOS LOS DERECHOS RESERVADOS</A>
+						</p>
+					</div>
+					<div class="col-md">
+						<p class="text-center">
+							<a href="#">TODOS LOS DERECHOS RESERVADOS</A>
+						</p>
+					</div>
+					<div class="col-md">
+						<p class="text-center">
+							<a href="#">TODOS LOS DERECHOS RESERVADOS</A>
+						</p>
+					</div>
+			</div>
+		</div>
 	</div>
 
 
@@ -304,7 +391,7 @@
 	<script type="text/javascript">
 
 	   $( document ).ready(function() {
-		    $("#laura-text").niceScroll();
+		    $("#middle-text").niceScroll();
 		});
 
 		$('.btnCloseModal1').on('click', function(){
