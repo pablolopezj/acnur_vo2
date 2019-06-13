@@ -41,7 +41,7 @@
 			<div class="col-md v100" >
 					<div class="row align-items-left v100">
 						<div class="col-md-2"></div>
-							<div class="col-md-9">
+							<div class="col-md-10">
 								<div class="h50px">
 									<h2 id="middle-header">@include('texts.middle_header')</h2>
 								</div>

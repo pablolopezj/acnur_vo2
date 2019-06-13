@@ -22,6 +22,7 @@
     <!-- logo -->
 
         <div class="content">
+          		<h2 class="tituloS1 bodoni">Mi padre decía, 'no fui yo, fue México'</h2>
             <br><br>
             <p align="justify">Helios Estéves tenía sólo dos meses cuando su padre se fue de la casa a combatir en la Guerra Civil española en 1936. Fue hasta los 19 años, en 1970, que pudo volverlo a ver y conocerlo en Ciudad de México, donde se exilió con miles de otros españoles que huyeron del franquismo.</p>
             <p align="justify">“Vine a México a conocer a mi padre. La ilusión de la familia fue siempre unirnos en algún país. Como en España mi padre no podía regresar porque seguía la dictadura, pues intento yo a los 19 años venir con la ilusión de traer después a mi madre y a mis hermanas. Cuando ya estábamos a punto de conseguirlo, mi padre fallece inesperadamente y los sueños se rompen sin saber si quiera como decírselo mi madre”, cuenta Helios.</p>
