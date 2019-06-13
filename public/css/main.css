@@ -1,0 +1,200 @@
+
+@font-face {
+    font-family: 'proxima_novaregular';
+    src: url('../fonts/proximanova-regular-webfont.woff2') format('woff2'),
+         url('../fonts/proximanova-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+body {
+	position: relative;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+	background: url(../images/fondoGral.png) no-repeat top center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: "proxima_novaregular";
+}
+
+
+.v100 {
+	position: relative;
+	min-height: 90vh;
+}
+
+.logo {
+	max-width: 230px;
+	width: 100%;
+}
+
+.tituloS1 {
+	font-size: 1.78rem;
+}
+
+.back-image-s1 {
+	background: url(../images/Documentos.jpg) no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.btnQuieroAyudar{
+	border-radius: initial;
+	border: 2px solid #fff;
+	color: #fff;
+	margin-top: 40px;
+	margin-bottom: 70px;
+}
+
+.btnQuieroAyudar:hover {
+	transition: 1s;
+	text-decoration: none;
+	color: #fff;
+	background: rgba(255,255,255,0.3);
+}
+
+
+.section2 {
+	margin-top: 7%;
+}
+.logoSmall {
+	max-width: 100px;
+	width: 100%;
+}
+
+.h50px {
+	height: 50px;
+	padding-bottom: 10px;
+}
+
+.mt30 {
+	margin-top: 30px;
+}
+
+.sep {
+	margin: 0 10px;
+}
+
+.colorCafetxt{
+	color: #756767;
+}
+
+.btnVerMas{
+	font-size: 0.8rem;
+	margin-top: 20px;
+	border: 2px solid #756767;
+	border-radius: initial;
+	color: #756767;
+	padding: 5px 35px;
+}
+
+.btnVerMas:hover {
+	transition: 1s;
+	background: rgba(255,255,255,0.5);
+}
+
+.section2 .content {
+	margin-top: 30px;
+}
+
+.txtSeparationNone{
+	letter-spacing: -4px;
+}
+
+.txtBold{
+	font-weight: bold;
+}
+
+.nombreTitle{
+	font-size: 0.8rem;
+	letter-spacing: 1px;
+	padding-left: 5px;
+}
+
+.section3 {
+	margin-top: 30px;
+}
+
+.section3 h3 {
+	font-size: 1.5rem;
+}
+
+.section3 .galery .col img {
+	width: 100%;
+}
+
+.contentImg {
+	position: relative;
+}
+
+.contentImg .overlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top:0;
+	left: 0;
+	background: rgba(0,0,0,0.5);
+	display: none;
+}
+
+.contentImg .overlay .btnVerMasImg {
+	position: absolute;
+	width: 80%;
+	max-width: 100px;
+	height: 30px;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 0;
+	bottom: 0;
+	margin-top: auto;
+	margin-bottom: auto;
+	border: 2px solid #fff;
+	color: #fff;
+	font-size: 0.9rem;
+	text-align: center;
+	line-height: 25px;
+	cursor: pointer;
+}
+
+.contentImg:hover .overlay {
+    display: block;
+}
+
+.modal1{
+	display: block;
+	position: absolute;
+	width: 100%;
+	min-height: 100vh;
+	top: 200vh;
+	left: 0;
+	background: #bcadad;
+	z-index: 99999;
+	overflow-y: auto;
+	display: none;
+}
+
+.btnCloseModal1 {
+	position: absolute;
+    right: 15px;
+    top: 10px;
+    cursor: pointer;
+}
+
+.contenidoModal1 {
+	margin-top: 40px;
+}
+
+#laura-text {
+	height: 520px;
+	overflow: auto;
+  margin-bottom:30px;
+}
