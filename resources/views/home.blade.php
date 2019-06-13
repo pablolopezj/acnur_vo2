@@ -20,12 +20,12 @@
 						<div class="col"></div>
 						<div class="col-md-9">
 							<br>
-                            <a href="https://www.acnur.org/">
+                            <a target="_blank" href="https://www.acnur.org/">
 							<img src="./images/logo.png" alt="Logo" class="logo">
                             </a>
 							<br><br><br><br><br>
                             @include('texts.header')
-							<a href="https://donate.unhcr.org/la/exilio-espanol/" target="_blank" class="btn btnQuieroAyudar">QUIERO AYUDAR A UN REFUGIADO</a>
+							<a target="_blank" href="https://donate.unhcr.org/la/exilio-espanol/" target="_blank" class="btn btnQuieroAyudar">QUIERO AYUDAR A UN REFUGIADO</a>
 						</div>
 						<div class="col-md-1"></div>
 					</div>
@@ -284,7 +284,7 @@
 	</div>
 
 	<div align="center" style="margin-top: 80px;">
-        <a href="https://www.acnur.org/">
+        <a target="_blank" href="https://www.acnur.org/">
 		<img src="./images/logo.png" alt="logo" width="20%"/>
         </a>
 		<br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br >
@@ -301,17 +301,13 @@
 
 			<div class="col-md" >
 				<p class="text-center">
-					<a href="https://www.acnur.org/">ACNUR Todos los derechos reservados</A>
+					<a target="_blank" href="https://www.acnur.org/">ACNUR Todos los derechos reservados</A>
 				</p>
 			</div>
+
 			<div class="col-md">
 				<p class="text-center">
-					<a href="https://www.acnur.org/">Términos y condiciones</A>
-				</p>
-			</div>
-			<div class="col-md">
-				<p class="text-center">
-					<a href="https://www.acnur.org/"> © ACNUR 2019</A>
+					<a target="_blank" href="https://www.acnur.org/"> © ACNUR 2019</A>
 				</p>
 			</div>
 	</div>
