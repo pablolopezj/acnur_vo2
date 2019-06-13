@@ -14,12 +14,8 @@ body {
 	margin: 0;
 	padding: 0;
 	color: #fff;
-	background: url(../images/backgrownd.png) no-repeat top center;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	font-family: "proxima_novaregular";
+  font-family: "proxima_novaregular";
+  background-color: #c2a7a1;
 }
 
 
@@ -246,4 +242,14 @@ body {
 .hr-modal{
   margin-top: 20px;
   background: #FFF;
+}
+
+
+.seccion-final{
+  background: url(../images/backgrownd.png) no-repeat bottom center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
 }

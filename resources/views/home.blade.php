@@ -67,7 +67,7 @@
 
 
 
-<!-- section laura -->
+<!-- section laura #c2a7a1 -->
 
 <section class="laura">
 	<div class="row"  style="background: #928989;">
@@ -111,7 +111,11 @@
 
 		  </div>
 
+
+
+
 	</div>
+
 </section>
 
 <!-- section 4 -->
@@ -264,21 +268,54 @@
 
 					</div>
 				</div>
-				<div align="center" style="margin-top: 120px;">
-					<br ><br ><br ><br >
-					<a href="https://donate.unhcr.org/la-es/siria-arrival" target="_blank" class="btn btnQuieroAyudar" style="background: rgba(0,0,0,0.7)">QUIERO AYUDAR A UN REFUGIADO</a>
-				</div>
 
-				<div align="center" style="margin-top: 80px;">
-					<img src="./images/logo.png" alt="logo" width="20%"/>
-					<br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br >
-					<br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br >
-				</div>
 
 			</div>
 				<div class="col-md-1"></div>
 			</div>
 		</section>
+
+
+<section class="seccion-final">
+	<div align="center" style="margin-top: 80px;">
+		<a href="https://donate.unhcr.org/la-es/siria-arrival" target="_blank" class="btn btnQuieroAyudar" style="background: rgba(0,0,0,0.7)">QUIERO AYUDAR A UN REFUGIADO</a>
+	</div>
+
+	<div align="center" style="margin-top: 80px;">
+		<img src="./images/logo.png" alt="logo" width="20%"/>
+		<br ><br ><br ><br ><br ><br ><br ><br ><br ><br ><br >
+	</div>
+
+
+</section>
+
+
+
+<div id="footer"  style="background: #9a7b70;">
+	<br>
+	<div class="row">
+
+			<div class="col-md" >
+				<p class="text-center">
+					<a href="https://www.acnur.org/">ACNUR Todos los derechos reservados</A>
+				</p>
+			</div>
+			<div class="col-md">
+				<p class="text-center">
+					<a href="https://www.acnur.org/">Términos y condiciones</A>
+				</p>
+			</div>
+			<div class="col-md">
+				<p class="text-center">
+					<a href="https://www.acnur.org/">Política de privacidad</A>
+				</p>
+			</div>
+	</div>
+</div>
+
+
+
+
 	</div>
 
 	<!-- Modal -->
@@ -333,27 +370,7 @@
 
 			</div>
 		</div>
-		<div id="footer"  style="background: #928989;">
-			<br>
-			<div class="row">
 
-					<div class="col-md" >
-						<p class="text-center">
-							<a href="#">TODOS LOS DERECHOS RESERVADOS</A>
-						</p>
-					</div>
-					<div class="col-md">
-						<p class="text-center">
-							<a href="#">TODOS LOS DERECHOS RESERVADOS</A>
-						</p>
-					</div>
-					<div class="col-md">
-						<p class="text-center">
-							<a href="#">TODOS LOS DERECHOS RESERVADOS</A>
-						</p>
-					</div>
-			</div>
-		</div>
 	</div>
 
 
